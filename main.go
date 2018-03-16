@@ -3,7 +3,7 @@ package main // import "github.com/airylinus/blank5"
 import (
 	"fmt"
 
-	"rsc.io/quote"
+	"github.com/airylinus/go4it/quote"
 )
 
 func main() {
