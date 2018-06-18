@@ -6,5 +6,5 @@ import (
 
 // Saying returns string
 func Saying() {
-	fmt.Println("I'm fake blank5")
+	fmt.Println("I'm fake blank5 version 0.0.2")
 }
